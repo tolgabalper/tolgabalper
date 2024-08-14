@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tolga. I'm a student<br><br>🔭 I’m currently working on [Codeport](https://github.com/tolgabalper/codeport)<br>🌱 I’m currently learning Web development, Love2d and Cybersecurity
+Hi, I'm Tolga. I'm a student<br><br>🔭 I’m currently working on [Js-Sudoku-Solver](https://github.com/tolgabalper/Js-Sudoku-Solver)<br>🌱 I’m currently learning Web development, Love2d and Cybersecurity
 
 
 ## 🌐 Socials:
